@@ -5,6 +5,7 @@ They are usefull for Student and Every internet user . These project is develope
 The following step are perform by termux
 $ apt update 
 $ apt upgrade
+$ apt-get install git -y
 $ chmod +x Tinstall.sh
 $./Tinstall.sh
  Complite working again starting 
