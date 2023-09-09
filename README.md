@@ -6,6 +6,7 @@ They are usefull for Student and Every internet user . These project is develope
 The following step To Be perform
 $ apt-get update
 $ apt-get upgrade
+$ chmod +x install.sh
 $ ./install.sh or bash install.sh
  Complite working again starting 
 
