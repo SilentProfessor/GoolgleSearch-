@@ -1,7 +1,8 @@
+#!/bin/bash
 sudo su
-
 apt-get upgrade -y
 apt-get update -y
+apt-get install git -y
 apt-get install python3
 pip install googlesearch-python
 
