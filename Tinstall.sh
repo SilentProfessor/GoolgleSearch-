@@ -1,8 +1,8 @@
 #/bin/bash
 
-apt-get upgrade -y
-apt-get update -y
-apt-get install python3
+apt upgrade -y
+apt update -y
+apt install python
 pip install googlesearch-python
 
-python3 GSE.py
+python GSE.py
